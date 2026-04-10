@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Full adder logic design
 
 ## How to test
 
-123
+Use a logic table to determine a logic gate output.
 
 ## External hardware
 
