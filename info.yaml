@@ -1,7 +1,7 @@
 # Tiny Tapeout project information (Wokwi project)
 project:
-  name:         "Full adder test"
   wokwi_id:     460943424046555137
+  name:         "Full adder test"
   title:        "Izy Full Adder Project copy"
   author:       "Izy Mathurin"
   discord:      ""
