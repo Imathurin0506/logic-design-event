@@ -13,7 +13,7 @@ Full adder logic design
 
 ## How to test
 
-Use a logic table to determine a logic gate output.
+Use a logic table to determine a logic gate output vhg
 
 ## External hardware
 
