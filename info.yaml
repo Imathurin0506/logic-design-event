@@ -1,19 +1,19 @@
 # Tiny Tapeout project information (Wokwi project)
-project:       "Full adder test"
-  wokwi_id:     460943424046555137       # 460943424046555137
-  title:        "Izy Full Adder Project copy"      # Izy Full Adder Project copy
-  author:       "Izy Mathurin"      # Izy Mathurin
-  discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
-  description:  "does full adder"      # One line description of what your project does
-  language:     "Wokwi" # other examples include SystemVerilog, Amaranth, VHDL, etc
-  clock_hz:     50000000       # Clock frequency in Hz (or 0 if not applicable)
+project:
+  name:         "Full adder test"
+  wokwi_id:     460943424046555137
+  title:        "Izy Full Adder Project copy"
+  author:       "Izy Mathurin"
+  discord:      ""
+  description:  "does full adder"
+  language:     "Wokwi"
+  clock_hz:     50000000
 
   # How many tiles your design occupies? A single tile is about 167x108 uM.
-  tiles: "1x1"          # Valid values: 1x1, 1x2, 2x2, 3x2, 4x2, 6x2 or 8x2
+  tiles: "1x1"
 
 
 # The pinout of your project. Leave unused pins blank. DO NOT delete or add any pins.
-# This section is for the datasheet/website. Use descriptive names (e.g., RX, TX, MOSI, SCL, SEG_A, etc.).
 pinout:
   # Inputs
   ui[0]: "A"
